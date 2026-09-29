@@ -1,2 +1,3 @@
-# Nx-Coding-Language
-# Soon (:
+# - Nx
+# - Soon (:
+# - By @Eo_Nzx
